@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'I really love the energy of this piece. It''s '
-datePublished: '2016-06-05T13:54:59.705Z'
-dateModified: '2016-06-05T13:53:43.336Z'
+datePublished: '2016-06-05T14:27:18.152Z'
+dateModified: '2016-06-05T13:55:03.567Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-05-i-really-love-the-energy-of-this-piece-its.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-05-i-really-love-the-energy-of-this-piece-its.md
 url: i-really-love-the-energy-of-this-piece-its/index.html
 _type: Article
 
