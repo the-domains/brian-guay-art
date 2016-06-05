@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Brian Guay Art]]></title>
-        <description><![CDATA[Brian Guay Art]]></description>
+        <title><![CDATA[Look at Brian's Art Everyone!]]></title>
+        <description><![CDATA[Look at Brian's Art Everyone!]]></description>
         <link>https://thegrid.ai/brian-guay-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 13:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 14:19:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brian-guay-art/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome, Thanks for Clicking by]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44d0677d-7048-41bd-81ba-928720470332.jpg">]]></description>
+            <link>https://thegrid.ai/brian-guay-art/welcome-thanks-for-clicking-by/index.html</link>
+            <guid isPermaLink="false">0c4782d6-c78b-452e-b835-1e0a39086763</guid>
+            <pubDate>Sun, 05 Jun 2016 14:19:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9601fcd7-e159-4916-b544-78e3930afd94.jpg">]]></description>
