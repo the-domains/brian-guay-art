@@ -1,8 +1,7 @@
 name: Brian Guay Art
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.44352730456739664
 typography_spectrum: 0.9283800476696342
-title: "Look at Brian's Art Everyone!"
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#e5e2b9'
-    - '#aaa893'
-    - '#000000'
-    - '#322f27'
-    - '#845340'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7276763152331114
+  lightness: 0.985628540860489
+  saturation: 0.04095213976688683
+  rhythmicContrast: 0.40730344550684094
 purpose: []
